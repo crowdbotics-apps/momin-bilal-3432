@@ -1,0 +1,3 @@
+rootProject.name = 'momin_bilal_3432'
+
+include ':app'

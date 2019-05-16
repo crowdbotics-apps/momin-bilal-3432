@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT momin_bilal_3432.wsgi:application
